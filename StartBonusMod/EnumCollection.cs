@@ -461,7 +461,7 @@ namespace StartBonusMod
                 case ItemEquipEnum.TheBackup: return "DroneBackup";
                 case ItemEquipEnum.TheCrowdfunder: return "GoldGat";
                 case ItemEquipEnum.TrophyHuntersTricorn: return "BossHunter";
-                case ItemEquipEnum.VolcanicEgg: return "FireBallDash";
+                case ItemEquipEnum.SeedofLife: return "HealAndRevive";
             }
             return null;
         }
